@@ -65,27 +65,14 @@ Excited about the future of cryptocurrency trading? I’m offering a complete sc
 Looking forward to connecting with you and helping you make the most of your crypto experience!
 
 
-Web : https://cex.tracex.pro
+Web : https://v5.votoom.com/en
 
-Demo Admin : https://cex.tracex.pro/admin/dashboard
+Demo Admin : https://v5.votoom.com/en/admin
 
-demo@gmail.com
-Demo#123
+superadmin@example.com
+12345678
 
 Note : You can switch between admin and user.
-
-Mobile App : https://cex.tracex.pro/tracex.apk
-
-Demo App User:
-
-demo@gmail.com
-Demo#123
-
-Demo Admin : https://cex.tracex.pro/admin/dashboard
-
-demo@gmail.com
-Demo#123
-
 
 Requirements for Installation :
 
